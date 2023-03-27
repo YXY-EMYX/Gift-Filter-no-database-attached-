@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/gift.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/options.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/receiver.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/recipient.txt" charset="GBK" />
+  </component>
+</project>
